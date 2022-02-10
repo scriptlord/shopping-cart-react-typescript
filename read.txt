@@ -1,1 +1,6 @@
 Install @material-ui/core/
+Install @material-ui/icons/
+install styled-components
+install @types/styled-components 
+install react-query
+
